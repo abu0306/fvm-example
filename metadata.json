@@ -1,0 +1,14 @@
+{
+  "abi": [
+    {
+      "method": "helloWord",
+      "methodNumber": "2",
+      "inputs": [
+        {
+          "type": "String",
+          "name": "xxx"
+        }
+      ]
+    }
+  ]
+}
